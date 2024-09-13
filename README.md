@@ -1,5 +1,5 @@
 
-# ResumeWorth - Resume Value Estimator
+# 💼ResumeWorth - Resume Value Estimator
 
 This is a Streamlit app that estimates the market value of a candidate based on their resume using Google's Generative AI. The app offers a fun and insightful evaluation with tips for improving your resume and enhancing your market worth.
 
