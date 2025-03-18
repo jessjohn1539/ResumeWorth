@@ -7,7 +7,7 @@ from pdf_processor import extract_text_from_pdf
 # Load environment variables and configure API
 load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-model = genai.GenerativeModel("gemini-pro")
+model = genai.GenerativeModel("gemini-2.0-flash")
 
 # Refined Resume Worth prompt
 input_prompt_worth = """
